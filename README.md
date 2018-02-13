@@ -14,6 +14,8 @@ I played around with the numbers of the x and y coordniates to get the right sha
 	
 I succeeded in making the bird.(See screenshot).  
 
+![alt text](Bird screenshot.PNG) "Bird"
+
 Animation 
 
 I want to animate the wings of the bird, but I am not sure how to do this. I'm thinking of two different ways; 
