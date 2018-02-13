@@ -14,7 +14,7 @@ I played around with the numbers of the x and y coordniates to get the right sha
 	
 I succeeded in making the bird.(See screenshot).  
 
-![alt text](Bird screenshot.PNG) "Bird"
+![alt text](Birdscreenshot.PNG) "Bird"
 
 Animation 
 
